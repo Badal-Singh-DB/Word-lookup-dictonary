@@ -1,0 +1,26 @@
+apple
+banana
+orange
+grape
+pear
+guava
+Apple
+Banana
+Cherry
+Date
+Elderberry
+Fig
+Grape
+Honeydew
+Kiwi
+Lemon
+Mango
+Nectarine
+Orange
+Papaya
+Quince
+Raspberry
+Strawberry
+Tangerine
+Ugli fruit
+Watermelon
